@@ -11,7 +11,7 @@ const tokenomicsData = {
       label: "Taxes",
       value: "5%",
     },
-    image: "tokenomics.png" // Replace with the actual path or URL of the image
+    image: "../assets/Images/tokenomics.png" // Replace with the actual path or URL of the image
   };
 
   export default tokenomicsData;

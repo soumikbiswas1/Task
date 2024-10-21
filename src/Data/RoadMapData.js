@@ -2,22 +2,22 @@ const roadMapData = [
     {
       phase: "Community Building",
       description: "Engage with the Alabay community and hold initial events.",
-      icon: "community-icon.png" // Replace with actual path or icon URL
+      icon: "../assets/Images/community-icon.png" // Replace with actual path or icon URL
     },
     {
       phase: "Merchandise Store Launch",
       description: "Launch the Alabay merchandise store with exclusive products.",
-      icon: "merch-icon.png"
+      icon: "../assets/Images/merch-icon.png"
     },
     {
       phase: "Community Expansion",
       description: "Increase the reach of the Alabay project through campaigns.",
-      icon: "expansion-icon.png"
+      icon: "../assets/Images/expansion-icon.png"
     },
     {
       phase: "Expansion and New Milestones",
       description: "Introduce new features and achieve further milestones.",
-      icon: "milestones-icon.png"
+      icon: "../assets/Images/milestone-icon.png"
     }
   ];
 

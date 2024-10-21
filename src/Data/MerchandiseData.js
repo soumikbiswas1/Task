@@ -2,14 +2,14 @@ const merchandiseData = [
     {
       name: "Alabay T-Shirt",
       description: "Exclusive Alabay branded T-Shirt. Available soon!",
-      image: "merch-shirt.png",
-      link: "/shop/alabay-tshirt"
+      image: "../assets/Images/merch-shirt.png",
+      link: "/"
     },
     {
       name: "Alabay Hoodie",
       description: "Comfy hoodie with the Alabay logo. Coming soon!",
-      image: "merch-hoodie.png",
-      link: "/shop/alabay-hoodie"
+      image: "../assets/Images/merch-hoodie.png",
+      link: "/"
     }
   ];
 

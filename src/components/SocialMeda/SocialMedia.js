@@ -1,7 +1,7 @@
 import React from 'react';
 import './SocialMedia.css';
-import twitterIcon from '../../assets/icons/twitter.png';
-import telegramIcon from '../../assets/icons/telegram.png';
+import twitterIcon from '../../assets/images/twitter-icon.png';
+import telegramIcon from '../../assets/images/telegram-icon.png';
 
 const SocialMedia = () => {
   return (

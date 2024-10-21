@@ -1,6 +1,6 @@
 import React from 'react';
 import './History.css';
-import historyImage from '../../assets/images/history.png'; // Replace with actual image path
+import historyImage from '../../assets/Images/history.png'; // Replace with actual image path
 
 const History = () => {
   return (

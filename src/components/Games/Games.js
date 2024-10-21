@@ -1,7 +1,7 @@
 import React from 'react';
 import './Games.css';
-import gameImage1 from '../../assets/images/game1.png';
-import gameImage2 from '../../assets/images/game2.png';
+import gameImage1 from '../../assets/Images/game1.png';
+import gameImage2 from '../../assets/Images/game2.png';
 
 const Games = () => {
   return (

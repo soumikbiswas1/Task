@@ -1,6 +1,6 @@
 import React from 'react';
 import './Merchandise.css';
-import merchImage from '../../assets/images/merch-shirt.png'; // Replace with actual image path
+import merchImage from '../../assets/Images/merch-shirt.png'; // Replace with actual image path
 
 const Merchandise = () => {
   return (

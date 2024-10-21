@@ -1,6 +1,6 @@
 import React from 'react';
 import './Tokenomics.css';
-import tokenImage from '../../assets/images/tokenomics.png'; // Replace with actual image path
+import tokenImage from '../../assets/Images/tokenomics.png'; // Replace with actual image path
 
 const Tokenomics = () => {
   return (

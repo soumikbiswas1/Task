@@ -1,6 +1,6 @@
 import React from 'react';
 import './ProjectVision.css';
-import visionImage from '../../assets/images/vision.png'; // Replace with actual image path
+import visionImage from '../../assets/Images/vision.png'; // Replace with actual image path
 
 const ProjectVision = () => {
   return (

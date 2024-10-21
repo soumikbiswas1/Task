@@ -1,5 +1,5 @@
 import React from 'react';
-import './RoadMap.css';
+import './Roadmap.css';
 import roadMapData from '../../data/roadMapData';
 
 const RoadMap = () => {

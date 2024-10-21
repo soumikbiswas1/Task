@@ -1,0 +1,42 @@
+.games {
+    padding: 50px;
+    background: #fff3cd;
+    text-align: center;
+  }
+
+  .games__title {
+    font-size: 32px;
+    color: #e17c00;
+    margin-bottom: 20px;
+  }
+
+  .games__description {
+    font-size: 18px;
+    margin-bottom: 30px;
+    color: #555;
+  }
+
+  .games__previews {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+
+  .games__item {
+    background: #f7d742;
+    padding: 20px;
+    border-radius: 10px;
+    width: 200px;
+    text-align: center;
+  }
+
+  .games__image {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+
+  .games__item p {
+    font-size: 16px;
+    color: #333;
+  }

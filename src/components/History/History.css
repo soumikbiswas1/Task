@@ -1,0 +1,35 @@
+.history {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background: #fff3cd;
+  }
+
+  .history__content {
+    flex: 1;
+    padding-right: 20px;
+  }
+
+  .history__title {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+
+  .history__description {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #555;
+  }
+
+  .history__image {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+  }
+
+  .history__image img {
+    max-width: 100%;
+    border-radius: 10px;
+  }

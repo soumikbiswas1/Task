@@ -1,0 +1,42 @@
+.roadmap {
+    padding: 50px;
+    background: #f7d742;
+    text-align: center;
+  }
+
+  .roadmap__title {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 30px;
+  }
+
+  .roadmap__stages {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+
+  .roadmap__stage {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+
+  .roadmap__icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+  }
+
+  .roadmap__phase {
+    font-size: 20px;
+    color: #e17c00;
+    margin-bottom: 10px;
+  }
+
+  .roadmap__description {
+    font-size: 16px;
+    color: #555;
+  }

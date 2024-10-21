@@ -6,7 +6,7 @@ import RoadMap from './components/Roadmap/Roadmap';
 import Tokenomics from './components/Tokenomics/Tokenomics';
 import Merchandise from './components/Merchandise/Merchandise';
 import Games from './components/Games/Games';
-import SocialMedia from './components/SocialMedia/SocialMedia';
+import SocialMedia from './components/SocialMeda/SocialMedia';
 import Footer from './components/Footer/Footer';
 
 import './App.css';
